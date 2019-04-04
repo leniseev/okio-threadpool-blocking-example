@@ -1,0 +1,9 @@
+[package]
+name = "tokio-threadpool-blocking-example"
+version = "0.1.0"
+authors = ["Lev Eniseev <leniseev@pm.me>"]
+edition = "2018"
+
+[dependencies]
+tokio = "0.1"
+tokio-threadpool = "0.1"
